@@ -21,8 +21,8 @@ A simple API for a railway reservation system similar to IRCTC, built with Node.
 
 1. Clone the repository
    ```
-   git clone <repository-url>
-   cd irctc-api
+   git clone https://github.com/TheVinaySagar/irctc-assignment.git
+   cd irctc-assignment
    ```
 
 2. Install dependencies
